@@ -7,5 +7,6 @@ setup(
     author='Jason Hsiao',
     author_email='oaishnosaj@gmail.com',
     description='monkey patched pdb',
+    packages=['jhsiao'],
     py_modules=['jhsiao.pdb']
 )
